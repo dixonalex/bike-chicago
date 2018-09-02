@@ -1,0 +1,3 @@
+[run]
+source = bike_chicago
+omit = bike_chicago/test*
